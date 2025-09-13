@@ -128,26 +128,9 @@ I had a great online training course at the Developerakademie and I learned a lo
 
 <br clear="both">
 
-<div>
-  <ul>
-    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
-      <img src="./assets/icons/linkedin.svg" height="30" alt="Linkedin">
-      Here my
-      <a href="www.linkedin.com/in/jonas-stiefer-663b70252" target="_blank" title="LinkedIn Profile" style="text-decoration: none">Linkedin</a>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
-      <img src="./assets/icons/gmail.svg" height="30" alt="Gmail">
-      Here my
-      <a href="mailto:neo.stief.jon@gmail.com" target="_blank" title="Gmail" style="text-decoration: none">Gmail</a>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
-      <img src="./assets/icons/discord.svg" height="30" alt="Discord">
-      Here is my
-      <a href="https://discord.com/users/301735021432012802" target="_blank" title="Discord Profile" style="text-decoration: none">Discord</a>
-      or my Discord Tag: <strong>blindfischsan</strong>
-    </li>
-  </ul>
-</div>
+- ![Linkedin](./assets/icons/linkedin.svg) Here my [Linkedin](https://www.linkedin.com/in/jonas-stiefer-663b70252)
+- ![Gmail](./assets/icons/gmail.svg) Here my [Gmail](mailto:neo.stief.jon@gmail.com)
+- ![Discord](./assets/icons/discord.svg) Here is my [Discord](https://discord.com/users/301735021432012802) or my Discord Tag: **blindfischsan**
 
 <br clear="both">
 
