@@ -1,60 +1,107 @@
-<h2 align="center">Hi 👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.</h2>
+<h1 align="left">Hi 👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.</h1>
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+- I am passionate about building scalable web applications and working with modern technologies.
+- In my free time, I enjoy contributing to open-source projects and learning new programming languages.
+
+---
+
+## Skills & Tools
+
+### Languages
+
+<div align="left">
+  <img src="./assets/icons/javascript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="./assets/icons/typescript.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="./assets/icons/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="./assets/icons/css3.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="./assets/icons/sass.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="./assets/icons/html5.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="./assets/icons/markdown.svg" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img src="./assets/icons/bash.svg" height="40" alt="bash logo"  />
 </div>
+
+## Frameworks & Libraries
+
+<div align="left">
+  <img src="./assets/icons/angularjs.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="./assets/icons/react.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="./assets/icons/vuejs.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="./assets/icons/django.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="./assets/icons/django_rest.svg" height="40" alt="django rest logo"  />
+  <img width="12" />
+  <img src="./assets/icons/pytest.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="./assets/icons/material.svg" height="40" alt="material logo"  />
+  <img width="12" />
+  <img src="./assets/icons/tailwind.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="./assets/icons/bootstrap.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+## Databases
+
+<div align="left">
+  <img src="./assets/icons/postgresql.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="./assets/icons/sqlite.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="./assets/icons/redis.svg" height="40" alt="redis logo"  />
+</div>
+
+## DevOps & Deployment
+
+<div align="left">
+  <img src="./assets/icons/docker.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="./assets/icons/nginx.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="./assets/icons/gunicorn.svg" height="40" alt="gunicorn logo"  />
+  <img width="12" />
+  <img src="./assets/icons/ssh.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="./assets/icons/linux.svg" height="40" alt="linux logo"  />
+</div>
+
+## Build & Package Tools
+
+<div align="left">
+  <img src="./assets/icons/npm.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="./assets/icons/pip.svg" height="40" alt="pip logo"  />
+</div>
+
+## Collaboration & Project Management
+
+<div align="left">
+  <img src="./assets/icons/git.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="./assets/icons/github.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="./assets/icons/figma.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="./assets/icons/filezilla.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="./assets/icons/postman.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="./assets/icons/vscode.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="./assets/icons/trello.svg" height="40" alt="trello logo"  />
+</div>
+
+---
 
 ###
 
