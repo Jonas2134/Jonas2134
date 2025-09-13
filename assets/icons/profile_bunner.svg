@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Animierter Farbverlauf -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027; #2c5364; #3a1c71; #1f1c2c; #0f2027" dur="20s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364; #3a1c71; #1f1c2c; #0f2027; #2c5364" dur="20s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Partikel (bewegend) -->
+    <circle id="particle" r="2" fill="white" opacity="0.6"/>
+    <!-- Sterne (funkelnd) -->
+    <circle id="star" r="1.5" fill="white" opacity="0.4"/>
+    <!-- Drehende Kreise -->
+    <circle id="orb" r="15" fill="rgba(255,255,255,0.05)"/>
+  </defs>
+
+  <!-- Hintergrund -->
+  <rect width="1200" height="300" fill="url(#gradient)" />
+
+  <!-- Schwebende Partikel -->
+  <g>
+    <use href="#particle" x="200" y="150">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-60; 0,0" dur="7s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="400" y="250">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-100; 0,0" dur="9s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="800" y="200">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-70; 0,0" dur="11s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="1000" y="100">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-90; 0,0" dur="13s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="600" y="180">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-80; 0,0" dur="8s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="300" y="80">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-70; 0,0" dur="10s" repeatCount="indefinite"/>
+    </use>
+    <use href="#particle" x="900" y="220">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-60; 0,0" dur="12s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Funkelnde Sterne -->
+  <g>
+    <use href="#star" x="150" y="50">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+    </use>
+    <use href="#star" x="500" y="120">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+    </use>
+    <use href="#star" x="750" y="80">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#star" x="1050" y="200">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/>
+    </use>
+    <use href="#star" x="900" y="60">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Drehende Kreise -->
+  <g transform="translate(600,150)">
+    <use href="#orb" x= "200" y="-100">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="60s" repeatCount="indefinite"/>
+    </use>
+    <use href="#orb" x="50" y="50">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="80s" repeatCount="indefinite"/>
+    </use>
+    <use href="#orb" x="-140" y="-90">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="100s" repeatCount="indefinite"/>
+    </use>
+    <use href="#orb" x="-260" y="-140">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="90s" repeatCount="indefinite"/>
+    </use>
+    <use href="#orb" x="340" y="190">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    Jonas Stiefer
+  </text>
+  <text x="50%" y="62%" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" opacity="0.85">
+    Full Stack Developer
+  </text>
+</svg>
+

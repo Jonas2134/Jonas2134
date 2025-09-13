@@ -1,13 +1,15 @@
-<h1 align="left">Hi 👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.</h1>
+<div align="center">
+  <img src="./assets/icons/profile_bunner.svg" width="100%" alt="profile picture" /> 
+</div>
 
-## About Me
+### Hi👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.
 
-- I am passionate about building scalable web applications and working with modern technologies.
-- In my free time, I enjoy contributing to open-source projects and learning new programming languages.
+I'm a new commer in the IT world and I'm currently looking for a job as a Junior Developer.
+I had a great online training course at the Developerakademie and I learned a lot about modern web development practices.
 
 ---
 
-## Skills & Tools
+# Skills & Tools
 
 ### Languages
 
@@ -29,7 +31,7 @@
   <img src="./assets/icons/bash.svg" height="40" alt="bash logo"  />
 </div>
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
 <div align="left">
   <img src="./assets/icons/angularjs.svg" height="40" alt="angularjs logo"  />
@@ -51,7 +53,7 @@
   <img src="./assets/icons/bootstrap.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-## Databases
+### Databases
 
 <div align="left">
   <img src="./assets/icons/postgresql.svg" height="40" alt="postgresql logo"  />
@@ -61,7 +63,7 @@
   <img src="./assets/icons/redis.svg" height="40" alt="redis logo"  />
 </div>
 
-## DevOps & Deployment
+### DevOps & Deployment
 
 <div align="left">
   <img src="./assets/icons/docker.svg" height="40" alt="docker logo"  />
@@ -75,7 +77,7 @@
   <img src="./assets/icons/linux.svg" height="40" alt="linux logo"  />
 </div>
 
-## Build & Package Tools
+### Build & Package Tools
 
 <div align="left">
   <img src="./assets/icons/npm.svg" height="40" alt="npm logo"  />
@@ -83,7 +85,7 @@
   <img src="./assets/icons/pip.svg" height="40" alt="pip logo"  />
 </div>
 
-## Collaboration & Project Management
+### Collaboration & Project Management
 
 <div align="left">
   <img src="./assets/icons/git.svg" height="40" alt="git logo"  />
@@ -101,35 +103,52 @@
   <img src="./assets/icons/trello.svg" height="40" alt="trello logo"  />
 </div>
 
+<br clear="both">
+
 ---
 
-###
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jonas2134&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonas2134&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br clear="both">
+
+---
+
+## My Snake
 
 <img src="https://raw.githubusercontent.com/Jonas2134/Jonas2134/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonas2134/Jonas2134/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jonas2134/Jonas2134/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jonas2134/Jonas2134/output/pacman-contribution-graph.svg">
-</picture>
+## Contact Me
 
-###
+<br clear="both">
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div>
+  <ul>
+    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
+      <img src="./assets/icons/linkedin.svg" height="30" alt="Linkedin">
+      Here my
+      <a href="www.linkedin.com/in/jonas-stiefer-663b70252" target="_blank" title="LinkedIn Profile" style="text-decoration: none">Linkedin</a>
+    </li>
+    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
+      <img src="./assets/icons/gmail.svg" height="30" alt="Gmail">
+      Here my
+      <a href="mailto:neo.stief.jon@gmail.com" target="_blank" title="Gmail" style="text-decoration: none">Gmail</a>
+    </li>
+    <li style="display: flex; align-items: center; gap: 10px; list-style: none;">
+      <img src="./assets/icons/discord.svg" height="30" alt="Discord">
+      Here is my
+      <a href="https://discord.com/users/301735021432012802" target="_blank" title="Discord Profile" style="text-decoration: none">Discord</a>
+      or my Discord Tag: <strong>blindfischsan</strong>
+    </li>
+  </ul>
 </div>
 
-###
+<br clear="both">
+
+---
