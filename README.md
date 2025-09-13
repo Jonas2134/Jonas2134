@@ -5,7 +5,9 @@
 ### Hi👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.
 
 I'm a new commer in the IT world and I'm currently looking for a job as a Junior Developer.
-I had a great online training course at the Developerakademie and I learned a lot about modern web development practices.
+I love coding and I'm always looking for new challenges and opportunities to learn new things.
+My main focus is on web development, but I'm also interested in other areas of IT.
+Feel free to check out my projects and skills below!
 
 ---
 
