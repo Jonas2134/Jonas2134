@@ -2,16 +2,17 @@
   <img src="./assets/icons/profile_bunner.svg" width="100%" alt="profile picture" /> 
 </div>
 
-### Hi👋! My name is Jonas and I'm a Fullstack Developer from Luxembourg.
+# Hi, I'm Jonas 👋
 
-I'm a new commer in the IT world and I'm currently looking for a job as a Junior Developer.
+Welcome to my Profile!
+I'm a Web Full-Stack Developer from Luxembourg.
 I love coding and I'm always looking for new challenges and opportunities to learn new things.
 My main focus is on web development, but I'm also interested in other areas of IT.
 Feel free to check out my projects and skills below!
 
 ---
 
-# Skills & Tools
+## Skills & Tools
 
 <div align="left">
   <img src="./assets/icons/javascript.svg" height="40" alt="javascript logo"  />
@@ -19,14 +20,6 @@ Feel free to check out my projects and skills below!
   <img src="./assets/icons/typescript.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="./assets/icons/python.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="./assets/icons/css3.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="./assets/icons/sass.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="./assets/icons/html5.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="./assets/icons/markdown.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="./assets/icons/angularjs.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -39,10 +32,6 @@ Feel free to check out my projects and skills below!
   <img src="./assets/icons/tailwind.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="./assets/icons/postgresql.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="./assets/icons/sqlite.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="./assets/icons/redis.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="./assets/icons/docker.svg" height="40" alt="docker logo"  />
 </div>
