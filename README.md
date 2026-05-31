@@ -14,46 +14,24 @@ Feel free to check out my projects and skills below!
 
 ## Skills & Tools
 
-<div align="left">
-  <img src="./assets/icons/javascript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="./assets/icons/typescript.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="./assets/icons/python.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="./assets/icons/angularjs.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="./assets/icons/react.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="./assets/icons/vuejs.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="./assets/icons/django.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="./assets/icons/tailwind.svg" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="./assets/icons/postgresql.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="./assets/icons/docker.svg" height="40" alt="docker logo"  />
-</div>
-
-<br clear="both">
+| Frontend | Backend | Database & DevOps |
+|:---:|:---:|:---:|
+| <img src="./assets/icons/javascript.svg" height="30" /> <img src="./assets/icons/typescript.svg" height="30" /> <img src="./assets/icons/react.svg" height="30" /> <img src="./assets/icons/angularjs.svg" height="30" /> <img src="./assets/icons/vuejs.svg" height="30" /> <img src="./assets/icons/tailwind.svg" height="30" /> | <img src="./assets/icons/python.svg" height="30" /> <img src="./assets/icons/django.svg" height="30" /> | <img src="./assets/icons/postgresql.svg" height="30" /> <img src="./assets/icons/docker.svg" height="30" /> |
 
 ---
 
 ## Contact Me
 
-<br clear="both">
-
-- ![Linkedin](./assets/icons/linkedin.svg) Here my [Linkedin](https://www.linkedin.com/in/jonas-stiefer-663b70252)
-- ![Gmail](./assets/icons/gmail.svg) Here my [Gmail](mailto:neo.stief.jon@gmail.com)
-- ![Discord](./assets/icons/discord.svg) Here is my [Discord](https://discord.com/users/301735021432012802) or my Discord Tag: **blindfischsan**
-
-<br clear="both">
-
----
-
-## My Snake
-
-<img src="https://raw.githubusercontent.com/Jonas2134/Jonas2134/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/jonas-stiefer-663b70252">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:neo.stief.jon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/301735021432012802">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
 ---
