@@ -1,11 +1,10 @@
-<div align="center">
-  <img src="./assets/profile_bunner.svg" width="100%" alt="profile picture" /> 
-</div>
+<img src="./assets/profile_bunner.svg" width="100%" alt="my_profile_bunner" /> 
 
 # Hi, I'm Jonas 👋
 
-Welcome to my Profile!
-Full-Stack Developer from Luxembourg — building web apps with Angular, React, Vue and Django, tinkering with Linux on the side.
+**Welcome to my Profile!**
+
+Full-Stack Developer from Luxembourg / building web apps with Angular, React, Vue and Django / tinkering with Linux on the side.
 
 - 🌱 Currently learning: Tauri
 
@@ -13,7 +12,7 @@ Full-Stack Developer from Luxembourg — building web apps with Angular, React, 
 
 ## Skills & Tools
 
-<img src="./assets/techstack.svg" width="100%" />
+<img src="./assets/techstack.svg" width="100%" alt="my_techstack" />
 
 ---
 
