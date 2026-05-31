@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/icons/profile_bunner.svg" width="100%" alt="profile picture" /> 
+  <img src="./assets/profile_bunner.svg" width="100%" alt="profile picture" /> 
 </div>
 
 # Hi, I'm Jonas 👋
