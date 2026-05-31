@@ -14,9 +14,7 @@ Feel free to check out my projects and skills below!
 
 ## Skills & Tools
 
-| Frontend | Backend | Database & DevOps |
-|:---:|:---:|:---:|
-| <img src="./assets/icons/javascript.svg" height="30" /> <img src="./assets/icons/typescript.svg" height="30" /> <img src="./assets/icons/react.svg" height="30" /> <img src="./assets/icons/angularjs.svg" height="30" /> <img src="./assets/icons/vuejs.svg" height="30" /> <img src="./assets/icons/tailwind.svg" height="30" /> | <img src="./assets/icons/python.svg" height="30" /> <img src="./assets/icons/django.svg" height="30" /> | <img src="./assets/icons/postgresql.svg" height="30" /> <img src="./assets/icons/docker.svg" height="30" /> |
+<img src="./assets/techstack_cards_final.svg" width="100%" />
 
 ---
 
