@@ -14,7 +14,7 @@ Feel free to check out my projects and skills below!
 
 ## Skills & Tools
 
-<img src="./assets/techstack_cards_final.svg" width="100%" />
+<img src="./assets/techstack.svg" width="100%" />
 
 ---
 
