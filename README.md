@@ -5,10 +5,9 @@
 # Hi, I'm Jonas 👋
 
 Welcome to my Profile!
-I'm a Web Full-Stack Developer from Luxembourg.
-I love coding and I'm always looking for new challenges and opportunities to learn new things.
-My main focus is on web development, but I'm also interested in other areas of IT.
-Feel free to check out my projects and skills below!
+Full-Stack Developer from Luxembourg — building web apps with Angular, React, Vue and Django, tinkering with Linux on the side.
+
+- 🌱 Currently learning: Tauri
 
 ---
 
